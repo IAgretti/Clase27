@@ -1,0 +1,15 @@
+C:\Proyectos\Clase27A\bin\Debug\net7.0\Clase27A.exe
+C:\Proyectos\Clase27A\bin\Debug\net7.0\Clase27A.deps.json
+C:\Proyectos\Clase27A\bin\Debug\net7.0\Clase27A.runtimeconfig.json
+C:\Proyectos\Clase27A\bin\Debug\net7.0\Clase27A.dll
+C:\Proyectos\Clase27A\bin\Debug\net7.0\Clase27A.pdb
+C:\Proyectos\Clase27A\obj\Debug\net7.0\Clase27A.csproj.AssemblyReference.cache
+C:\Proyectos\Clase27A\obj\Debug\net7.0\Clase27A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Clase27A\obj\Debug\net7.0\Clase27A.AssemblyInfoInputs.cache
+C:\Proyectos\Clase27A\obj\Debug\net7.0\Clase27A.AssemblyInfo.cs
+C:\Proyectos\Clase27A\obj\Debug\net7.0\Clase27A.csproj.CoreCompileInputs.cache
+C:\Proyectos\Clase27A\obj\Debug\net7.0\Clase27A.dll
+C:\Proyectos\Clase27A\obj\Debug\net7.0\refint\Clase27A.dll
+C:\Proyectos\Clase27A\obj\Debug\net7.0\Clase27A.pdb
+C:\Proyectos\Clase27A\obj\Debug\net7.0\Clase27A.genruntimeconfig.cache
+C:\Proyectos\Clase27A\obj\Debug\net7.0\ref\Clase27A.dll
